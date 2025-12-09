@@ -20,3 +20,9 @@ O projeto Tic-tac-toe Master possui diversas mecânicas online e offline, as pri
 - Seleção da dificuldade da IA
 
 # Estrutura do Repositório
+Codigo/
+ flutter_application_1/
+   lib/
+Artefatos/
+
+Dentro da pasta flutter_aplication_1 é onde se encontra todos os arquivos do projeto flutter, já a pasta lib é onde se encontra o código do projeto em dart, já a pasta artefatos contém a documentação, esboço de telas, slides de apresentação e um vídeo do aplicativo.
